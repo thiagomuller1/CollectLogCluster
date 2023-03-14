@@ -11,18 +11,6 @@ Caso o download acima não funcione, efetuar download do ps1 do repositorio e ex
 
 Selecionar a opção 2 para coletar logs do Failover Cluster
 
-+===============================================+
-|  TSSv2 - Log Collection                       |     
-|                                               |
-|           By: Fabiano Inacio                  | 
-+===============================================+
-|                                               |
-|    1: Press '1' for Default collection.       |
-|    2: Press '2' for Cluster collection.       |
-|    3: Press '3' for HyperV collection.        |
-|    Q: Press 'Q' for Exit.                     |
-+===============================================+
-
 O export estara disponivel em C:\Dell\ folder
 
 Autor: https://github.com/fginacio/MS
